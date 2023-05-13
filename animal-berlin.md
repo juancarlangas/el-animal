@@ -5,7 +5,7 @@ Intro
 -----
 - Amanece *(Cm)* `1er CORO -> solo 🎸`
 - Detrás de ti *(C)* `1er CORO -> atmósfera`
-- La Celula que explota `completa`
+- La Celula que explota `1er coro -> Intensa 🎹`
 - Viento `2o coro -> head`
 - `Atmósfera 🎹` La Negra Tomasa `radio edit`
 ```text
