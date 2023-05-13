@@ -1,21 +1,21 @@
-Caifanes tribute
-================
+Caifanes
+========
 
 Presentación
 ------------
-- Amanece <b>(Cm)</b> `1 vuelta y al solo de guitarra`
-- Detrás de ti *(C)* - **hasta el coro y a la coda**
-- La Celula que explota **Completa**
-- Viento **2 coro también sencillo y al head** *Se queda atmósfera*
+- Amanece *(Cm)* `1 vuelta -> solo de :guitar:`
+- Detrás de ti *(C)* `hasta el coro y a la coda`
+- La Celula que explota
+- Viento `2 coro sencillo y termina en head -> (sinte) se queda atmósfera`
 - La Negra Tomasa
 
 Full concert
 ------------
-- Estás dormida - 3:56
-- Nubes - 3:47
-- Afuera - 4:08
-- Miedo - 3:56
-- El animal - 5:06
+- Estás dormida `1 vuelta y al solo de sax -> (batería) se queda en ritmo`
+- Nubes `Sin último coro -> obligado metales -> (sinte se queda en atmósfera )`
+- `Percusion` Afuera
+- `Atmosfera guitarra` Miedo `Del coro se va al segundo solo de guitarra`
+- El animal
 - Fin - 5:22
 - Te lo pido por favor - 4:10
 - Antes de que nos olviden - 5:11
