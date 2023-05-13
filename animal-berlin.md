@@ -3,7 +3,7 @@ Caifanes tribute
 
 Presentación
 ------------
-- Amanece *(Cm)* **1 vuelta y al solo de guitarra**
+- Amanece *(Cm)* **1 vuelta y al solo de guitarra** 
 - Detrás de ti *(C)* - **hasta el coro y a la coda**
 - La Celula que explota **Completa**
 - Viento **2 coro también sencillo y al head** *Se queda atmósfera*
