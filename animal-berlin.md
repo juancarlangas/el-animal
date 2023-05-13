@@ -1,31 +1,41 @@
 Caifanes
 ========
 
-Presentación
-------------
-- Amanece *(Cm)* `1 vuelta -> solo de :guitar:`
-- Detrás de ti *(C)* `hasta el coro y a la coda`
-- La Celula que explota
-- Viento `2 coro sencillo y termina en head -> (sinte) se queda atmósfera`
-- La Negra Tomasa
+Intro
+-----
+- Amanece *(Cm)* `1er CORO -> solo 🎸`
+- Detrás de ti *(C)* `1er CORO -> atmósfera`
+- La Celula que explota `completa`
+- Viento `2o coro -> head`
+- `Atmósfera 🎹` La Negra Tomasa `radio edit`
+```text
+💬 Buenas noches! saludo a la Banda 
+```
+Full
+----
+- Estás dormida `1er CORO -> solo de 🎷`
+- `Ritmo 🥁` Nubes `2o CORO -> solo 🎸`
+- `Ritmo prehispánico 🪘🎹` Afuera `cae en Em`
+- `Feedback 🎸` Miedo `"se caiga por nosotros" -> último solo 🎸 -> redoble El Animal`
+- El animal `2o verso -> último coro`
 
-Full concert
-------------
-- Estás dormida `1 vuelta y al solo de sax -> (batería) se queda en ritmo`
-- Nubes `Sin último coro -> obligado metales -> (sinte se queda en atmósfera )`
-- `Percusion` Afuera
-- `Atmosfera guitarra` Miedo `Del coro se va al segundo solo de guitarra`
-- El animal
-- Fin - 5:22
-- Te lo pido por favor - 4:10
-- Antes de que nos olviden - 5:11
-- Debajo de tu piel (1 tono abajo) - 5:16
-- Aquí no es así - 4:08
-- Perdí mi ojo de venado - 4:08
+Relax
+----------
+- Fin `Ultimo coro sencillo`
+- Te lo pido por favor `completa, termina en A`
+- Antes de que nos olviden `1er coro -> solo bass`
 
-Despedida
+2o aire
+------
+- Debajo de tu piel *D* `2o Coro -> next`
+- Aquí no es así `1er coro -> solo bass de`
+- Perdí mi ojo de venado `1ero -> solo 🥁`
+```text
+💬 Regresamos! la chingada
+```
+Cierre primer parte
 ---------
-- Mátenme porque me muero
+- Mátenme porque me muero `completa`
 
 Maldita Vecindad
 ================
