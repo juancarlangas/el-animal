@@ -1,31 +1,31 @@
 Caifanes
 ========
 
-Intro
+Intro (13 min)
 -----
-- Amanece *(Cm)* `1er CORO -> solo 🎸`
-- Detrás de ti *(C)* `1er CORO -> atmósfera`
-- La Celula que explota `1er coro -> Intensa 🎹`
-- Viento `2o coro -> head`
-- `Atmósfera 🎹` La Negra Tomasa `radio edit`
+- Amanece *(Cm)* `2o CORO`
+- Detrás de ti *(C)* `1er CORO -> ATMÓSFERA ->`
+- La Celula que explota `Completa`
+- Viento `1er CORO (bis) -> HEAD`
+- `Atmósfera 🎹` La Negra Tomasa `Completa s/bilongo`
 ```text
-💬 Buenas noches! saludo a la Banda 
+💬 Buenas noches! saludo a la Banda
 ```
-Full
+Full (14 min)
 ----
-- Estás dormida `1er CORO -> solo de 🎷`
-- `Ritmo 🥁` Nubes `2o CORO -> solo 🎸`
-- `Ritmo prehispánico 🪘🎹` Afuera `cae en Em`
+- Estás dormida `1er CORO -> solo de 🎷 ->`
+- `Ritmo 🥁` Nubes `Solo 🎸 -> SALIDA`
+- `Ritmo prehispánico 🪘🎹` Afuera `1er CORO -> Prehispanic -> Último ACORDE en Em`
 - `Feedback 🎸` Miedo `"se caiga por nosotros" -> último solo 🎸 -> redoble El Animal`
 - El animal `2o verso -> último coro`
 
-Relax
+Relax (9 min)
 ----------
-- Fin `Ultimo coro sencillo`
+- Fin `1er Coro -> Solo Cuerdas -> Último coro sencillo ->`
 - Te lo pido por favor `completa, termina en A`
 - Antes de que nos olviden `1er coro -> solo bass`
 
-2o aire
+2o aire (9 min)
 ------
 - Debajo de tu piel *D* `2o Coro -> next`
 - Aquí no es así `1er coro -> solo bass de`
