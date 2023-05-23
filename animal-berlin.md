@@ -3,21 +3,23 @@ Caifanes
 
 Intro (13 min)
 -----
-- Amanece *(Cm)* `2o CORO`
-- Detrás de ti *(C)* `1er CORO -> ATMÓSFERA ->`
-- La Celula que explota `Completa`
-- Viento `1er CORO (bis) -> HEAD`
-- `Atmósfera 🎹` La Negra Tomasa `Completa s/bilongo`
+- Amanece `-> 2o CORO`
+- Detrás de ti *(C)* `-> 1er CORO -> ATMÓSFERA ->`
+- La Celula que explota
+- Viento `-> 1er CORO (bis) -> HEAD`
+- `Atmósfera 🎹 -> ` La Negra Tomasa `-> CORO -> Solo 🎹 ->`
+
 ```text
 💬 Buenas noches! saludo a la Banda
 ```
+
 Full (14 min)
 ----
-- Estás dormida `1er CORO -> solo de 🎷 ->`
-- `Ritmo 🥁` Nubes `Solo 🎸 -> SALIDA`
-- `Ritmo prehispánico 🪘🎹` Afuera `1er CORO -> Prehispanic -> Último ACORDE en Em`
-- `Feedback 🎸` Miedo `"se caiga por nosotros" -> último solo 🎸 -> redoble El Animal`
-- El animal `2o verso -> último coro`
+- Estás dormida `-> 1er CORO -> solo de 🎷 ->`
+- `Ritmo 🥁 ->` Nubes `-> Solo 🎸 -> SALIDA`
+- `Ritmo prehispánico 🪘🎹 ->` Afuera `-> 1er CORO -> Prehispanic -> Último ACORDE en Em`
+- `Feedback largo 🎸 ->` Miedo `-> 1er CORO -> último solo 🎸 -> redoble El Animal`
+- El animal `-> 2o VERSO -> último CORO`
 
 Relax (9 min)
 ----------
@@ -42,9 +44,10 @@ Maldita Vecindad
 
 Presentación
 ------------
-- Pachuco - 3:26
-- Morenaza - 3:45
-- Toño - 3:52
+- **AUDIO:** Mujer Maldita
+- Pachuco `Doble vuelta DRUMS, INTRO, doble vuelta BRASS -> Solo Guitar -> HEAD`
+- Morenaza `-> OPERA -> Último CORO ->`
+- Toño
 
 Full concert
 ------------
